@@ -1,11 +1,12 @@
 
 
 const AllProducts = () => {
-    return (
-        <div>
-            All Products Page
-        </div>
-    );
+
+  return (
+    <div>
+
+    </div>
+  );
 };
 
 export default AllProducts;
